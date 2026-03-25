@@ -6,6 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
  <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/css/home.css" />
+ <h1>Hello World!</h1>
 </head>
 <body>
 This is our project's home page!!!!
